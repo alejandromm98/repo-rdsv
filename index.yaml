@@ -3,23 +3,23 @@ entries:
   accesschart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-12T16:39:13.346985913+01:00"
+    created: "2023-01-12T17:53:21.433005586+01:00"
     description: A Helm chart for Kubernetes
-    digest: d554597193332484792f19caf393ebdd6989c66f200438d3c991ea292ec8529c
+    digest: 3cbf2c54cb612663fb79db41326f724d866e4f4c33d49d4752be33bc884e62c8
     name: accesschart
     type: application
     urls:
-    - https://github.com/alejandromm98/repo-rdsv/accesschart-0.1.0.tgz
+    - https://alejandromm98.github.io/repo-rdsv/accesschart-0.1.0.tgz
     version: 0.1.0
   cpechart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-12T16:39:13.349761743+01:00"
+    created: "2023-01-12T17:53:21.435642262+01:00"
     description: A Helm chart for Kubernetes
-    digest: 3bdeb5d010e942336d4e8004629ca232c3004d6522f7c704511b6c79ac739dcc
+    digest: e75173280a65508f2b4cf830a986a08b5f6c44ba497084e8e7d0f83afafb44e9
     name: cpechart
     type: application
     urls:
-    - https://github.com/alejandromm98/repo-rdsv/cpechart-0.1.0.tgz
+    - https://alejandromm98.github.io/repo-rdsv/cpechart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-12T16:39:13.3438481+01:00"
+generated: "2023-01-12T17:53:21.415710584+01:00"
